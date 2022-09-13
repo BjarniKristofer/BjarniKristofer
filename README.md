@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BjarniKristofer
 - 👀 I’m interested in evolutionary ecology and limnology
-- 🌱 I’m currently learning  ore about r, especially geomorph
+- 🌱 I’m currently learning  about r, especially geomorph
 - 📫 How to reach me via my email - bjakk@holar.is
 
 <!---
